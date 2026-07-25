@@ -168,7 +168,7 @@ class Venkatramanan {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,postgres"/>
 
 </p>
 
@@ -178,15 +178,11 @@ class Venkatramanan {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/YOLOv8-FFCC00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge"/>
 
 </p>
 
@@ -210,77 +206,276 @@ class Venkatramanan {
 
 # 🚀 Featured Projects
 
-## 🌊 Underwater Mine Detection using Simulated Sonar Echoes
+<details open>
+<summary><h3>🌊 Underwater Mine Detection Using Simulated Sonar Echoes</h3></summary>
 
-An AI-powered underwater object detection system that converts simulated sonar echo signals into spectrogram images and uses the YOLOv8 deep learning model to accurately detect underwater mines. This project focuses on improving underwater surveillance and autonomous mine detection.
+**Tech Stack:**  
+`Python` `YOLOv8` `YOLOv5` `Ray Tracing` `Deep Learning`
 
-**Key Technologies**
+### 📖 Overview
 
-`Python`
-`YOLOv8`
-`OpenCV`
-`Deep Learning`
-`Computer Vision`
+Developed an AI-powered underwater mine detection system that generates synthetic sonar images using ray-tracing techniques and detects underwater mines using YOLO-based object detection models. The project converts simulated sonar echo signals into spectrogram images, enabling accurate mine detection even under complex underwater conditions.
 
----
+### ✨ Key Features
 
-## 🛣 AI-Based Road Damage Detection
+- 🌊 Synthetic sonar image generation using ray tracing.
+- 📈 Spectrogram generation from sonar echo signals.
+- 🤖 Underwater mine detection using YOLOv5 and YOLOv8.
+- 🎯 High detection accuracy using deep learning.
+- 📊 Performance evaluation using Precision, Recall, mAP, and Inference Speed.
+- 🚢 Designed for autonomous underwater surveillance applications.
 
-Developed an intelligent road damage detection system capable of identifying potholes and road surface defects from images using deep learning techniques. The project aims to support smart transportation systems by enabling early maintenance and improved road safety.
+### 🛠 Technologies Used
 
-**Key Technologies**
+- Python
+- YOLOv5
+- YOLOv8
+- Matplotlib
+- Ray Tracing
+- Deep Learning
 
-`Python`
-`YOLOv8`
-`OpenCV`
-`Machine Learning`
+### 🎯 Outcome
 
----
+Successfully developed a scalable AI-based underwater mine detection framework capable of accurately identifying underwater mines from synthetic sonar imagery, improving underwater surveillance and autonomous naval defense systems.
 
-## 🚗 Smart Parking System
-
-Designed and implemented an IoT-enabled Smart Parking System that helps users locate available parking spaces efficiently. The system uses sensor-based monitoring and intelligent parking slot allocation to reduce congestion and save time.
-
-**Key Technologies**
-
-`IoT`
-`Java`
-`MySQL`
+</details>
 
 ---
 
-## 🔐 Multi-Mode Security Firewall for Network-on-Chip
+<details open>
+<summary><h3>🛣 AI-Driven Road Damage Detection System</h3></summary>
 
-Designed a secure firewall architecture for Network-on-Chip (NoC) systems to improve communication security in multi-core processors. The project focuses on enhancing data protection while maintaining system performance.
+**Tech Stack:**  
+`Python` `OpenCV` `YOLOv8` `MiDaS` `Deep Learning`
 
-**Key Technologies**
+### 📖 Overview
 
-`Computer Architecture`
-`Network Security`
-`Verilog`
+Developed an intelligent road damage detection system capable of identifying potholes, cracks, manholes, and speed bumps using computer vision and deep learning. Integrated depth estimation to assess damage severity and improve road maintenance planning.
+
+### ✨ Key Features
+
+- 🛣 Detects potholes, cracks, and road anomalies.
+- 📏 MiDaS depth estimation for severity analysis.
+- 🤖 YOLOv8 object detection model.
+- ⚡ Real-time image processing.
+- 📊 Road safety analytics support.
+- 🚦 Suitable for smart city transportation systems.
+
+### 🛠 Technologies Used
+
+- Python
+- OpenCV
+- YOLOv8
+- MiDaS
+- Deep Learning
+
+### 🎯 Outcome
+
+Developed a reliable AI-based road inspection system that automates road damage detection, helping improve maintenance efficiency and road safety.
+
+</details>
 
 ---
 
-## 💻 Verilog Based UART Transmitter & Receiver
+<details open>
+<summary><h3>🧠 EEG Abnormality Detection using CNN</h3></summary>
 
-Designed and simulated a Universal Asynchronous Receiver Transmitter (UART) communication system using Verilog HDL. The project demonstrates serial communication principles and digital hardware implementation.
+**Tech Stack:**  
+`Python` `CNN` `Machine Learning` `Deep Learning`
 
-**Key Technologies**
+### 📖 Overview
 
-`Verilog`
-`Digital Electronics`
+Built a Convolutional Neural Network (CNN) model to classify EEG signals and identify abnormalities. The project includes data preprocessing, feature extraction, model training, and evaluation for medical diagnosis support.
+
+### ✨ Key Features
+
+- 🧠 EEG signal preprocessing.
+- 🤖 CNN-based classification.
+- 📈 High accuracy abnormality detection.
+- 📊 Model evaluation using accuracy and loss metrics.
+- ⚡ End-to-end deep learning pipeline.
+
+### 🛠 Technologies Used
+
+- Python
+- CNN
+- NumPy
+- Pandas
+- Matplotlib
+
+### 🎯 Outcome
+
+Successfully developed an intelligent EEG abnormality detection system that demonstrates the effectiveness of deep learning in medical diagnosis support.
+
+</details>
 
 ---
 
-## ⚡ Review of Adder Design using LTSpice
+<details open>
+<summary><h3>🛒 E-Commerce Website</h3></summary>
 
-Performed a comparative analysis of different Full Adder architectures using LTSpice in 180nm CMOS technology. Evaluated delay, power consumption, and performance metrics to identify the most efficient design.
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `Java` `Spring Boot`
 
-**Key Technologies**
+### 📖 Overview
+Developed a full-stack e-commerce platform that enables seamless vendor-to-customer interactions through a secure and user-friendly shopping experience. The application focuses on efficient product management, secure authentication, and responsive design to enhance customer engagement.
 
-`LTSpice`
-`CMOS`
-`VLSI`
+### ✨ Key Features
+
+- 🔐 Secure user authentication and authorization.
+- 🛍️ Product catalog with category-based browsing.
+- 📦 Vendor dashboard for product management.
+- 🛒 Shopping cart and order management system.
+- 📱 Fully responsive UI for desktop and mobile devices.
+- ⚡ Developed using Spring Boot for scalable backend services.
+- 💾 Efficient database integration for managing users, products, and transactions.
+
+### 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Spring Boot
+- MySQL
+
+### 🎯 Outcome
+
+Designed a scalable and responsive e-commerce application that streamlines online shopping, improves vendor-customer communication, and provides a secure platform for managing products and transactions.
+
+</details>
+
+---
+
+<details open>
+<summary><h3>🎬 Movie Recommendation System</h3></summary>
+
+**Tech Stack:**  
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+### 📖 Overview
+
+Developed an intelligent movie recommendation system that suggests personalized movies using content-based filtering and cosine similarity. Enhanced recommendations using Natural Language Processing (NLP) techniques and deployed the application with Streamlit.
+
+### ✨ Key Features
+
+- 🎥 Personalized movie recommendations.
+- 📊 Cosine similarity recommendation engine.
+- 🧠 NLP integration using BERT.
+- 🌐 Interactive Streamlit web application.
+- ☁ AWS deployment support.
+- ⚡ Fast recommendation generation.
+
+### 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- BERT
+
+### 🎯 Outcome
+
+Built a personalized movie recommendation engine that improves recommendation accuracy while providing users with an interactive and intuitive movie discovery experience.
+
+</details>
+
+<details open>
+<summary><h3>🚗 Smart Parking System</h3></summary>
+
+**Tech Stack:**  
+`Java` `IoT` `MySQL`
+
+### 📖 Overview
+
+Designed an IoT-based smart parking management system that helps drivers locate available parking spaces in real time while enabling efficient parking slot monitoring and management.
+
+### ✨ Key Features
+
+- 🚗 Real-time parking slot availability.
+- 📡 IoT-enabled parking sensors.
+- 📱 Smart parking allocation.
+- 📊 Parking occupancy monitoring.
+- ⚡ Reduced vehicle search time.
+- 🗄 Database-driven parking management.
+
+### 🛠 Technologies Used
+
+- Java
+- IoT
+- MySQL
+- Embedded Systems
+
+### 🎯 Outcome
+
+Developed an intelligent parking management solution that minimizes parking congestion and improves user convenience through real-time monitoring.
+
+</details>
+
+---
+
+<details open>
+<summary><h3>📡 Verilog-Based UART Transmitter & Receiver</h3></summary>
+
+**Tech Stack:**  
+`Verilog` `Digital Electronics` `UART`
+
+### 📖 Overview
+
+Designed and implemented a UART communication module using Verilog HDL to enable reliable serial communication between digital systems through simulation and verification.
+
+### ✨ Key Features
+
+- 📡 UART transmitter implementation.
+- 📥 UART receiver implementation.
+- ⚡ Serial communication protocol.
+- 📊 Simulation and waveform verification.
+- 🔄 Reliable asynchronous communication.
+
+### 🛠 Technologies Used
+
+- Verilog HDL
+- Xilinx Vivado / ModelSim
+- Digital Electronics
+
+### 🎯 Outcome
+
+Successfully implemented and validated UART communication architecture suitable for embedded and FPGA-based systems.
+
+</details>
+
+---
+
+<details open>
+<summary><h3>⚡ Review of Adder Design using LTSpice</h3></summary>
+
+**Tech Stack:**  
+`LTSpice` `CMOS` `VLSI`
+
+### 📖 Overview
+
+Conducted a comparative study of different CMOS full adder architectures using LTSpice to evaluate delay, power consumption, and overall performance for low-power VLSI applications.
+
+### ✨ Key Features
+
+- ⚡ CMOS full adder analysis.
+- 📉 Power consumption comparison.
+- ⏱ Delay measurement.
+- 📊 Performance evaluation.
+- 🖥 Circuit simulation using LTSpice.
+
+### 🛠 Technologies Used
+
+- LTSpice
+- CMOS Technology
+- VLSI Design
+
+### 🎯 Outcome
+
+Identified efficient full adder architectures suitable for low-power integrated circuit design through comprehensive performance analysis.
+
+</details>
 
 ---
 
@@ -298,20 +493,6 @@ Completed industrial training on modern telecommunication systems, optical fiber
 
 ---
 
-## 🎤 IEEE International Conference Presenter
-
-Presented the research paper
-
-**"A Multi-mode Security Firewall for Network-on-Chip Architectures"**
-
-at the
-
-**IEEE International Conference on Computing, Communication, Electrical, Electronics & Control Systems (ICCCES 2026).**
-
-The paper focused on improving security and reliability in Network-on-Chip architectures for advanced embedded systems.
-
----
-
 ## 🌱 Current Learning Journey
 
 - ☕ Advanced Java Programming
@@ -321,8 +502,6 @@ The paper focused on improving security and reliability in Network-on-Chip archi
 - 📊 Data Structures & Algorithms
 - 💻 Software Development
 - 🌐 Web Technologies
-
----
 
 ---
 
@@ -336,38 +515,149 @@ The paper focused on improving security and reliability in Network-on-Chip archi
 
 <img src="https://img.shields.io/badge/SQL%20%26%20PostgreSQL-Udemy-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Introduction%20to%20SQL-Simplilearn-0F9D58?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL%20Basic-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL%20Intermediate-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Generative%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-Simplilearn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Amateur%20Radio-MIT%20Anna%20University-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Amateur%20Radio-MIT-blue?style=for-the-badge"/>
 
 </p>
 
-### 📜 Certification Highlights
+### 📜 Professional Certifications
 
-- ☕ Java Bootcamp: Learn Java with 100+ Java Projects (Udemy)
-- 🐍 Python Programming for AWS – Learn Python with AWS & Boto3 (Udemy)
-- 🗄 SQL & PostgreSQL for Beginners: Become a SQL Expert (Udemy)
-- 🤖 Introduction to Generative AI (Google Cloud × Simplilearn)
-- 🐍 Python for Beginners (Simplilearn)
-- 📡 Fundamentals of Electronics & Communication for Amateur Radio (MIT, Anna University)
+- ☕ Java Bootcamp: Learn Java with 100+ Java Projects *(Udemy)*
+- 🐍 Python Programming for AWS – Learn Python with AWS & Boto3 *(Udemy)*
+- 🗄 SQL & PostgreSQL for Beginners: Become a SQL Expert *(Udemy)*
+- 📘 Introduction to SQL *(Simplilearn SkillUp)*
+- 🏅 SQL (Basic) Skill Certification *(HackerRank)*
+- 🏅 SQL (Intermediate) Skill Certification *(HackerRank)*
+- 🤖 Introduction to Generative AI *(Google Cloud × Simplilearn)*
+- 🐍 Python for Beginners *(Simplilearn SkillUp)*
+- 📡 Fundamentals of Electronics & Communication for Amateur Radio *(MIT, Anna University)*
 
 ---
 
-# 🏅 Achievements
+# 📚 Research Publications
 
-🏆 Incoming Analyst @ Deloitte USI
+## 📄 Comprehensive Synthetic Sonar Imaging Framework for Scalable Naval Mine Detection Employing YOLOv5 and YOLOv8 Deep Learning Architectures
 
-🎓 B.E. Electronics & Communication Engineering Graduate
+🏛 **International Conference on Next-Generation Adaptive Research and Innovations (ICNARI 2026)**
 
-📄 IEEE International Conference Presenter (ICCCES 2026)
+📍 National Institute of Technology (NIT), Patna
 
-📡 Successfully completed Industrial Training at BSNL, Chennai
+### Research Areas
 
-🤖 Developed AI-based Deep Learning Projects
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- Underwater Mine Detection
+- Sonar Signal Processing
+- YOLOv5
+- YOLOv8
 
-💻 Passionate Java Developer
+### Highlights
+
+- Developed a synthetic sonar imaging framework using ray tracing.
+- Applied YOLOv5 and YOLOv8 for underwater mine detection.
+- Improved detection accuracy through spectrogram-based image generation.
+- Focused on scalable naval surveillance systems.
+
+---
+
+## 📄 A Multi-mode Security Firewall for Network-on-Chip Architectures
+
+🏛 **IEEE International Conference on Communication, Computing and Electronics Systems (ICCCES 2026)**
+
+### Research Areas
+
+- Hardware Security
+- Network-on-Chip
+- Embedded Systems
+- Computer Architecture
+
+### Highlights
+
+- Proposed a multi-mode firewall architecture for secure NoC communication.
+- Improved security while maintaining communication performance.
+- Presented research at IEEE ICCCES 2026.
+
+---
+
+# 🏅 Workshops & Achievements
+
+### 📡 BSNL Industrial Training
+
+Completed industrial training at
+
+**Bharat Sanchar Nigam Limited (BSNL)**
+
+Rajiv Gandhi Memorial Telecom Training Centre, Chennai.
+
+Focused on:
+
+- Optical Fiber Communication
+- Switching Networks
+- Mobile Communication
+- Broadband Technologies
+- Telecommunication Infrastructure
+
+---
+
+### 🎙 IEEE Conference Presenter
+
+Presented research paper at 
+
+**5th International Conference on Communication, Computing and Electronics Systems**
+
+Hosted by
+
+**PPG Institute of Technology, Coimbatore**
+
+---
+
+### 📄 ICNARI 2026 Author
+
+Published research paper at
+
+**International Conference on Next-Generation Adaptive Research and Innovations (ICNARI 2026)**
+
+Hosted by
+
+**National Institute of Technology (NIT), Patna**
+
+---
+
+### 🤝 Event Coordinator
+
+Served as
+
+**Event Coordinator – SPARISH'26**
+
+Rotaract Club of MIT
+
+Madras Institute of Technology
+
+Anna University
+
+---
+
+### 📡 Workshop Participant
+
+Participated in
+
+**Fundamentals of Electronics & Communication for Amateur Radio**
+
+Organized by Department of Electronics Engineering
+
+MIT Campus
+
+Anna University
 
 ---
 
