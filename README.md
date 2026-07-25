@@ -243,7 +243,7 @@ Successfully developed a scalable AI-based underwater mine detection framework c
 ---
 
 <details open>
-<summary><h3>🛣 AI-Driven Road Damage Detection System</h3></summary>
+<summary><h3><a href="https://github.com/iam-venkat06/POTHOLE_DETECTION">🛣 AI-Driven Road Damage Detection System</h3></summary>
 
 **Tech Stack:**  
 `Python` `OpenCV` `YOLOv8` `MiDaS` `Deep Learning`
@@ -348,7 +348,7 @@ Designed a scalable and responsive e-commerce application that streamlines onlin
 ---
 
 <details open>
-<summary><h3>🎬 Movie Recommendation System</h3></summary>
+<summary><h3><a href="https://github.com/iam-venkat06/MOVIE_RECOMMENTATION_SYSTEM">🎬 Movie Recommendation System</h3></summary>
 
 **Tech Stack:**  
 `Python` `Pandas` `Scikit-learn` `Streamlit`
