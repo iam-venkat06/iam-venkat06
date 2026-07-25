@@ -245,6 +245,16 @@ Successfully developed a scalable AI-based underwater mine detection framework c
 <details open>
 <summary><h3><a href="https://github.com/iam-venkat06/POTHOLE_DETECTION">🛣 AI-Driven Road Damage Detection System</h3></summary>
 
+<br>
+
+<p align="center">
+
+<a href="https://github.com/iam-venkat06/POTHOLE_DETECTION">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 **Tech Stack:**  
 `Python` `OpenCV` `YOLOv8` `MiDaS` `Deep Learning`
 
