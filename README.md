@@ -75,6 +75,18 @@ Anna University
 
 Graduation : **2026**
 
+CGPA : **7.55**
+
+### 🎓 Diploma in Engineering (EEE)
+
+🏫 Muthayammal Polytechnic College (MPTC)
+
+Rasipuram, Namakkal
+
+Graduation : **2023**
+
+Percentile : **96.21**
+
 ---
 
 # 💼 Current Status
