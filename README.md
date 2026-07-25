@@ -1,189 +1,149 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<!-- ===================================================== -->
+<!--                 GITHUB PROFILE README                 -->
+<!--              Created for Venkatramanan J             -->
+<!-- ===================================================== -->
+
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00BFFF;">Venkatramanan J</span>
+</h1>
 
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences 
-</h3> 
-
-<p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter= true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+ %7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A wesome!" />
-</p>
-
---
-
-## 🚀 About Me
-
-- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and opensource projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
-
---
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin"/>
-</a>
-
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=forthe-badge&logo=vercel"/> 
-</a>
-
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-thebadge&logo=gmail"/>
-</a>
-
-</p>
-
---
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons? i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase, tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-
-</p>
-
---
-
-# 🚀 Featured Projects
-
-## 🌍 Portfolio Website
-
-Modern personal portfolio showcasing projects, skills, and experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 Live Demo: [Portfolio URL]
-
-📂 Repository: [GitHub Repository]
-
---
-
-## 🛒 E-Commerce Website
-
-A responsive online shopping platform with authentication and cart functionality.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-🔗 Live Demo: [Project URL]
-
-📂 Repository: [GitHub Repository]
-
---
-
-## ✅ Task Management App
-
-A productivity application to organize daily tasks with authentication.
-
-**Tech Stack**
-
-`React` `Firebase` `Tailwind CSS`
-
-🔗 Live Demo: [Project URL]
-
-📂 Repository: [GitHub Repository]
-
---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/? username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
-
-</p>
-
---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=[GitHubUsername]&theme=tokyonight&hide_border=true"/> 
-
-</p>
-
---
-
-# 📈 Contribution Graph 
-
-<p align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph? username=[GitHubUsername]&theme=tokyo-night"/>
-
-</p>
-
---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/? username=[GitHubUsername]&theme=tokyonight&no-frame=true&marginw=10"/> 
-
-</p>
-
---
-
-# 🛠 Currently Working On
-
-- 🚀 Building full-stack web applications.
-- 🌱 Learning advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
-
---
-
-# 📚 Currently Learning
-
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
-
---
-
-# 🎯 Goals for 2025
-
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
-
---
-
-# 💡 Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
---
-
-<p align="center">
-  
-<img src="https://komarev.com/ghpvc/? username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla t"/>
-
-</p>
-
---
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+💻 Software Developer | AI & Machine Learning Enthusiast | Java Developer | Incoming Analyst @ Deloitte USI
 </h3>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Problem+Solver;Always+Learning+New+Technologies;Future+Software+Engineer;Thanks+for+Visiting+My+Profile!" />
+
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=iam-venkat06&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/iam-venkat06?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/iam-venkat06?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 B.E. Electronics and Communication Engineering Graduate from **Madras Institute of Technology (MIT), Anna University**
+
+💼 Incoming **Analyst @ Deloitte USI**
+
+💻 Passionate about developing scalable software solutions, solving real-world problems, and continuously learning emerging technologies.
+
+🤖 My primary interests include
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Java Development
+- Database Management
+- Problem Solving
+
+🌱 Currently learning
+
+- Advanced Java
+- Data Structures & Algorithms
+- SQL
+- Artificial Intelligence
+- Machine Learning
+- System Design
+
+⚡ I strongly believe
+
+> **"Learning never stops. Every project is an opportunity to improve."**
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Engineering (ECE)
+
+🏫 Madras Institute of Technology (MIT)
+
+Anna University
+
+Graduation : **2026**
+
+---
+
+# 💼 Current Status
+
+🎯 Incoming Analyst
+
+🏢 Deloitte USI
+
+💻 Looking forward to building impactful software solutions while continuously improving my technical expertise.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:j.venkat06nkl@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/venkatj06">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iam-venkat06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jvenkat06nkl.wixsite.com/venkatj06">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 A Little More About Me
+
+```java
+class Venkatramanan {
+
+    String role = "Incoming Analyst @ Deloitte USI";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    };
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Development",
+        "Problem Solving",
+        "Database Systems"
+    };
+
+    String motto = "Code • Learn • Build • Improve";
+
+}
+```
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy transforming ideas into practical software solutions and constantly exploring new technologies that help solve real-world challenges.
+
+---
