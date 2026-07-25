@@ -381,6 +381,8 @@ Built a personalized movie recommendation engine that improves recommendation ac
 
 </details>
 
+---
+
 <details open>
 <summary><h3>🚗 Smart Parking System</h3></summary>
 
@@ -661,18 +663,6 @@ Anna University
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-venkat06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-venkat06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -688,16 +678,6 @@ Anna University
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-venkat06&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iam-venkat06&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
