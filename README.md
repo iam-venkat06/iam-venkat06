@@ -511,30 +511,118 @@ Completed industrial training on modern telecommunication systems, optical fiber
 
 <p align="center">
 
+<!-- =================== UDEMY =================== -->
+
 <a href="https://drive.google.com/file/d/1YYI-vw2OtxJMu7nXBDxnxL_y0QEjkdkv/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Java-Udemy-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Udemy-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1khtVBweMcNUpooEmDhTrV8ks-19udThy/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1fVr7uyFc0lXWshLBhcNaH8xlqnRIdd1X/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/SQL%20&%20PostgreSQL-Udemy-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20&%20PostgreSQL-Udemy-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
+<br>
 
-<a href="https://drive.google.com/file/d/1dheV--2quizPodlXhIv4AzOWETEX4wMi/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Introduction%20to%20SQL-Simplilearn-0C9ED9?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- =================== INFOSYS SPRINGBOARD =================== -->
+
+<a href="https://drive.google.com/file/d/1s16gpAoAt8XoMQ1Xy7ctuZ8QJdFHWnx8/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Java-Infosys%20Springboard-007CC3?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
+
+<a href="https://drive.google.com/file/d/1iviJlbhGKuhOhIplQJsdTVox3t9m42MC/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Python-Infosys%20Springboard-007CC3?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1fdV9OHmc4WE51sZJ8QgxjBJzRfgur1Lq/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/SQL-Infosys%20Springboard-007CC3?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== HACKERRANK =================== -->
 
 <a href="https://drive.google.com/file/d/1qzyhxe1KjXdiSOGS9dxweScWXIiiAG-n/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1984ROpElvd00CetSqW5TzxCxiwCpUjex/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== SIMPLILEARN =================== -->
+
+<a href="https://drive.google.com/file/d/1dheV--2quizPodlXhIv4AzOWETEX4wMi/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Introduction%20to%20SQL-Simplilearn-0C9ED9?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1UtPNOJ3bNLo7VDSTMj8Dfzz8CI-PcWDN/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Python-Simplilearn-0C9ED9?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/164uEjlXFc41MnRzNO8vUFcLaFI8MTV8Q/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Generative%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== WORKSHOPS =================== -->
+
+<a href="https://drive.google.com/file/d/1s3T0I7pCb0B7mq5UYNJZWy-PmTF10WwV/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Agentic%20AI-Workshop-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1IbrBf-tdtkhTUFXTVkKOP7AIrp9c8WFs/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Amateur%20Radio-MIT-red?style=for-the-badge&logo=radio&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== TRAINING =================== -->
+
+<a href="https://drive.google.com/file/d/17iA026q-4Cn_p1aPzUlDKMz4rd3OkTTJ/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/BSNL-Industrial%20Training-blue?style=for-the-badge&logo=verizon&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== NPTEL =================== -->
+
+<a href="https://drive.google.com/file/d/1xSl1LEQzUCzSvqKQ0ThbXUNyhGpCmE2Z/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/NPTEL-Course%20Completion-darkgreen?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== PUBLICATIONS =================== -->
+
+<a href="https://drive.google.com/file/d/1FlR22AGQ6lEqiMtcFPRLzrNwILMgVz7H/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/ICNARI-2026-success?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1GrQZbAzP9eiym-QgMj4yyR4PRriEF9XJ/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/IEEE-ICCCES%202026-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
+<!-- =================== LEADERSHIP =================== -->
+
+<a href="https://drive.google.com/file/d/1X-75wI_JFemwYqrvjxLYgpFvomdGoRln/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Event%20Coordinator-SPARISH'26-purple?style=for-the-badge&logo=rotaryinternational&logoColor=white"/>
 </a>
 
 </p>
