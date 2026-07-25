@@ -507,27 +507,35 @@ Completed industrial training on modern telecommunication systems, optical fiber
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-Udemy-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1YYI-vw2OtxJMu7nXBDxnxL_y0QEjkdkv/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Java-Udemy-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1khtVBweMcNUpooEmDhTrV8ks-19udThy/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/SQL%20%26%20PostgreSQL-Udemy-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1fVr7uyFc0lXWshLBhcNaH8xlqnRIdd1X/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/SQL%20&%20PostgreSQL-Udemy-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Introduction%20to%20SQL-Simplilearn-0F9D58?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/SQL%20Basic-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1dheV--2quizPodlXhIv4AzOWETEX4wMi/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Introduction%20to%20SQL-Simplilearn-0C9ED9?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/SQL%20Intermediate-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1qzyhxe1KjXdiSOGS9dxweScWXIiiAG-n/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Generative%20AI-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-Simplilearn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amateur%20Radio-MIT-blue?style=for-the-badge"/>
+<a href="https://drive.google.com/file/d/1984ROpElvd00CetSqW5TzxCxiwCpUjex/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </p>
 
