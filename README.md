@@ -322,7 +322,17 @@ Successfully developed an intelligent EEG abnormality detection system that demo
 ---
 
 <details open>
-<summary><h3>🛒 E-Commerce Website</h3></summary>
+<summary><h3><a href="https://github.com/iam-venkat06/E_Commerce-Website">🛒 E-Commerce Website</h3></summary>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/iam-venkat06/E_Commerce-Website">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 **Tech Stack:**  
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot`
